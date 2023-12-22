@@ -7,3 +7,8 @@
 
 * 폴더와 파일명은 영문으로 작성한다.
 * 해당 문서를 다시 봤을 때, 추가적인 검색의 비용이 들지 않도록 자세히 기록한다.
+
+## 알아두면 좋은 repo
+
+- [신입 혹은 주니어 개발자에게 필요한 지식을 정리하는 공간](https://github.com/WooVictory/Ready-For-Tech-Interview)
+- [기술 면접 대비를 위한 기본 개념을 정리하는 Repository](https://github.com/WeareSoft/tech-interview)
