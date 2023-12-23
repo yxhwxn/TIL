@@ -12,3 +12,11 @@
 
 - [신입 혹은 주니어 개발자에게 필요한 지식을 정리하는 공간](https://github.com/WooVictory/Ready-For-Tech-Interview)
 - [기술 면접 대비를 위한 기본 개념을 정리하는 Repository](https://github.com/WeareSoft/tech-interview)
+
+## 협업 Tool
+
+- **Notion** 
+  - [된다! 하루 5분 노션 활용법](https://m.post.naver.com/my/series/detail.naver?seriesNo=674263&memberNo=38386150&prevVolumeNo=33390322)
+
+- **Slack**
+  - [슬랙이 뭐지?](https://gonna-be.tistory.com/29)
