@@ -20,3 +20,8 @@
 
 - **Slack**
   - [슬랙이 뭐지?](https://gonna-be.tistory.com/29)
+
+## Why? 학습법
+
+- **Web & Spring 의 탄생 배경**
+  - [웹 어플리케이션의 역사](https://tecoble.techcourse.co.kr/post/2023-10-25-HISTORY-OF-WEB-APP/)
