@@ -25,3 +25,8 @@
 
 - **Web & Spring 의 탄생 배경**
   - [웹 어플리케이션의 역사](https://tecoble.techcourse.co.kr/post/2023-10-25-HISTORY-OF-WEB-APP/)
+
+## 포트폴리오 관리
+
+- Notion보다는 site.google을 이용한 개인 웹페이지 관리 추천
+  - [테오 개인 포트폴리오](https://sites.google.com/view/woosung1223) 참고 !!
