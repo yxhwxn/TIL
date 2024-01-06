@@ -20,6 +20,10 @@
 
 - **Slack**
   - [슬랙이 뭐지?](https://gonna-be.tistory.com/29)
+ 
+- **Jira**
+  - [Jira 기본사용법](https://velog.io/@juyeon/JIRA-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-yjj2ykrk)
+  - [공식문서](https://www.atlassian.com/ko/software/jira/guides/projects/tutorials#create-a-new-project-in-jira)
 
 ## Why? 학습법
 
