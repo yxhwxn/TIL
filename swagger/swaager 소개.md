@@ -1,5 +1,3 @@
-# Today I Learned 📕📗📘
-
 # Swagger
 
 ## 스웨거란?
