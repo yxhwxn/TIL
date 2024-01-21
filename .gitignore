@@ -1,5 +1,5 @@
 # .gitignore
 .idea/
+.DS_Store
 **/.DS_Store
 **/.git
-.DS_Store
